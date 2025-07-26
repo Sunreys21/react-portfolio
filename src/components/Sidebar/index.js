@@ -36,7 +36,7 @@ const Sidebar = () => (
             <li>
                 <a target="_blank" 
                    rel='noreferrer' 
-                   href='https://www.linkedin.com/in/jumier-rey-cabanero-1783a4369'>
+                   href='https://www.linkedin.com/in/jumier-rey-caba%C3%B1ero-1783a4369/'>
                     <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
                 </a>
             </li>
